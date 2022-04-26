@@ -1,0 +1,4 @@
+if(username==password)
+{
+print("login failed")
+}
